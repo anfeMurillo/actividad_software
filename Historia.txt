@@ -1,0 +1,7 @@
+Android nació como un proyecto chiquito en 2003 en California, fundado por **Andy Rubin, Rich Miner, Nick Sears y Chris White**. La idea inicial no era hacer un sistema para celulares, sino una plataforma para cámaras digitales conectadas a internet. Como el mercado de cámaras no despegó, pivotearon rápido hacia los **teléfonos móviles**, que sí pintaban como el futuro.
+
+En 2005, **Google compró Android Inc.** y lo transformó en la base de su estrategia móvil. Dos años después, en 2007, se anunció la **Open Handset Alliance**, con fabricantes y operadoras comprometidas a impulsar un sistema abierto. El primer dispositivo con Android fue el **HTC Dream (o T-Mobile G1)** en 2008.
+
+Lo que hizo diferente a Android fue su **código abierto (basado en Linux)** y su flexibilidad: cualquier fabricante podía usarlo y adaptarlo. Eso lo volvió el rival natural del iPhone. Con los años, Android se expandió no solo en móviles, sino también en **tabletas, televisores, autos, relojes y hasta electrodomésticos**.
+
+Hoy es el sistema operativo móvil más usado del mundo, con miles de versiones personalizadas, desde los Samsung Galaxy hasta celulares súper baratos de mercados emergentes.
