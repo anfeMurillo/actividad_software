@@ -1,0 +1,21 @@
+Android 1.0  (2008)       - Primera versión oficial, Android Market, Gmail, Maps.
+Android 1.5  (Cupcake)    - Widgets, grabación de video.
+Android 1.6  (Donut)      - Soporte para múltiples resoluciones de pantalla.
+Android 2.0/2.1 (Eclair)  - Navegación GPS, fondos animados.
+Android 2.2  (Froyo)      - Hotspot Wi-Fi, mejoras de rendimiento.
+Android 2.3  (Gingerbread)- NFC, mejoras en interfaz y juegos.
+Android 3.0–3.2 (Honeycomb)- Exclusiva para tablets, UI adaptada.
+Android 4.0  (Ice Cream Sandwich) - Unificación de interfaz para tablets y móviles.
+Android 4.1–4.3 (Jelly Bean) - Google Now, Project Butter, notificaciones avanzadas.
+Android 4.4  (KitKat)     - Optimización para baja RAM, "OK Google".
+Android 5.0/5.1 (Lollipop)- Material Design, notificaciones en pantalla de bloqueo.
+Android 6.0  (Marshmallow)- Permisos por app, modo Doze (ahorro de batería).
+Android 7.0/7.1 (Nougat)  - Multiventana, respuesta rápida en notificaciones.
+Android 8.0/8.1 (Oreo)    - Picture-in-Picture, canales de notificación.
+Android 9.0  (Pie)        - Navegación por gestos, batería adaptativa.
+Android 10               - Modo oscuro, mejoras en privacidad.
+Android 11               - Burbujas de chat, permisos temporales.
+Android 12               - Material You, interfaz más personalizable.
+Android 13               - Control multimedia mejorado, nuevos permisos.
+Android 14               - Mejoras en accesibilidad, batería y pantallas grandes.
+Android 15 (Beta)        - Mayor integración con IA, personalización avanzada (esperada).
